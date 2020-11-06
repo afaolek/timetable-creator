@@ -1,5 +1,7 @@
 # Timetable Creator
 
+[![Codecov Coverage](https://img.shields.io/codecov/c/github/afaolek/timetable-creator/coverage.svg)](https://codecov.io/gh/afaolek/timetable-creator/)
+
 The purpose is to help with creating timetables for secondary schools. Making a timetable is a lot of hassles. Editing it when there are clashes is a lot more. This software helps to create a timetable that tries as much as possible to minimize stress and editing due to clashes.
 
 ## Getting Started
