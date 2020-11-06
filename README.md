@@ -5,6 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/afaolek/timetable-creator)](https://github.com/afaolek/timetable-creator/stargazers?logo=github)
 ![GitHub issues](https://img.shields.io/github/issues/afaolek/timetable-creator?logo=github)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/afaolek/timetable-creator?logo=npm)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The purpose is to help with creating timetables for secondary schools. Making a timetable is a lot of hassles. Editing it when there are clashes is a lot more. This software helps to create a timetable that tries as much as possible to minimize stress and editing due to clashes.
 
